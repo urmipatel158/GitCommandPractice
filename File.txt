@@ -60,3 +60,6 @@ nav {
         <h2>About Us</h2>
         <p>This is a simple webpage created with HTML. You can add text, images, links, and more to build a fully functional website.</p>
     </section>
+    <style>
+
+
